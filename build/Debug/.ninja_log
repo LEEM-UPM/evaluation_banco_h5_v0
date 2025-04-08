@@ -1,0 +1,24 @@
+# ninja log v5
+33	149	7654904221086209	CMakeFiles/Blinki.dir/startup_stm32g473xx.s.obj	33e1e9f7443f0131
+323	953	7654904229139086	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj	a8c36d704c8eb75e
+26	323	7654904222259295	CMakeFiles/Blinki.dir/Core/Src/sysmem.c.obj	f222b53b868aab99
+73	755	7654904226989952	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj	b5e42608456abec
+13	744	7654904225910605	CMakeFiles/Blinki.dir/Core/Src/main.c.obj	6364b13ec49073d4
+21	601	7654904225509397	CMakeFiles/Blinki.dir/Core/Src/stm32g4xx_hal_msp.c.obj	c6f3e8d45d90fd77
+68	820	7654904227352709	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj	8625a519283bd445
+17	803	7654904227215446	CMakeFiles/Blinki.dir/Core/Src/stm32g4xx_it.c.obj	a808998c8334ea34
+83	819	7654904227678869	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj	68d26fa4fba43094
+40	888	7654904228481510	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj	67a48882533cbc09
+36	813	7654904227347714	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32g4xx.c.obj	b693f5cc669552f9
+91	817	7654904227477760	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj	75198621846f5933
+63	828	7654904227703877	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj	2f6902a1d6e8c4bf
+45	812	7654904227548234	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj	a3e499d3c58158b7
+58	790	7654904226603153	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj	13a45d89f5b8d919
+78	812	7654904227256855	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj	fa8c1ddc2b70d9f9
+53	899	7654904228586043	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj	afb4233446aa87b7
+30	606	7654904225293702	CMakeFiles/Blinki.dir/Core/Src/syscalls.c.obj	feb9fd1ed5871975
+49	846	7654904228029734	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj	e1d80c91918cf1c1
+150	820	7654904227482770	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj	950aa56013dbee74
+953	1113	7654904230621196	Blinki.elf	6ae6f9ececa97d74
+4	21	0	CMakeFiles/clean.additional	98374df07ddc0872
+22	34	0	clean	529518bdb38c021b

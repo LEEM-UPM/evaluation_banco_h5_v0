@@ -1,2 +1,2 @@
-# evaluation_banco_f1_v0
-Placa de evaluación ¿F1? para componentes del banco de sensores 
+# evaluation_banco_h5_v0
+Placa de evaluación H5 para componentes de la placa de los sensores para el banco de ensayos.
